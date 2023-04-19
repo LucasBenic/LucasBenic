@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Mobile testing**
 
-- 💬 Ask me about **Ruby and Capybara**
-
 - 📫 How to reach me **lucas.pro23@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -35,9 +33,6 @@
   <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer" title="Ruby">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/>
   </a>
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer" title="Selenium">
-    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
-  </a>
   <a href="https://cucumber.io/" target="_blank" rel="noreferrer" title="Cucumber">
     <img src="https://cdn.worldvectorlogo.com/logos/cucumber.svg" alt="cucumber" width="40" height="40"/>
   </a>
@@ -46,6 +41,9 @@
   </a>
   <a href="https://rspec.info/" target="_blank" rel="noreferrer" title="RSpec">
     <img src="https://rspec.info/images/logo_ogp.png" alt="rspec" width="40" height="40"/>
+  </a>
+   <a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer" title="Jmeter">
+    <img src="https://jmeter.apache.org/images/logo.svg" alt="Jmeter" width="60" height="40"/>
   </a>
 </p>
 
