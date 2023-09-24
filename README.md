@@ -45,6 +45,10 @@
    <a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer" title="Jmeter">
     <img src="https://jmeter.apache.org/images/logo.svg" alt="Jmeter" width="60" height="40"/>
   </a>
+  <a href="https://www.cypress.io/" target="_blank" rel="noreferrer" title="Cypress">
+  <img src="https://www.cypress.io/_astro/navbar-brand.0d71ff96.svg" alt="Cypress" width="60" height="40"/>
+</a>
+
 </p>
 
 
