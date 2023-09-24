@@ -48,6 +48,14 @@
   <a href="https://www.cypress.io/" target="_blank" rel="noreferrer" title="Cypress">
   <img src="https://www.cypress.io/_astro/navbar-brand.0d71ff96.svg" alt="Cypress" width="60" height="40"/>
 </a>
+<a href="https://github.com/" target="_blank" rel="noreferrer" title="GitHub">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="60" height="40"/>
+</a>
+<a href="https://gitlab.com/" target="_blank" rel="noreferrer" title="GitLab">
+  <img src="https://1000logos.net/wp-content/uploads/2023/04/Gitlab-logo-500x281.png" alt="GitLab" width="60" height="40"/>
+</a>
+
+
 
 </p>
 
