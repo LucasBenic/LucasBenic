@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasbenic&label=Profile%20views&color=0e75b6&style=flat" alt="lucasbenic" /> </p>
 
-- 🔭 I’m currently working at **Lenovo**
+- 🔭 I’m currently working at **Self Employed**
 
 - 🌱 I’m currently learning **Mobile testing**
 
